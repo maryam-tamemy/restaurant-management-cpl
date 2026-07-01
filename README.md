@@ -77,6 +77,7 @@ Prolog · Haskell · Logic Programming · Functional Programming · ADTs · High
 - `task2.hs` — Haskell implementation
 - `sample_KB.pl` — Small knowledge base for testing
 - `public_KB.pl` — Full knowledge base used for grading
+- `Public_Test_Cases.xlsx` — Public test cases for the Haskell task (Task 2)
 
 ## Author
 Maryam Tamemy — GUC Spring 2026
